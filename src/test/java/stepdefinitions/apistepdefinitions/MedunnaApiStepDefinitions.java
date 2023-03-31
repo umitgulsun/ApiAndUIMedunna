@@ -10,7 +10,7 @@ import utilities.ObjectMapper01;
 import static base_urls.MedunnaBaseUrl.spec;
 import static io.restassured.RestAssured.given;
 
-public class MedunnaStepDefinitions
+public class MedunnaApiStepDefinitions
 {
     Response response;
     Room expectedData;
