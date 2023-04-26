@@ -1,4 +1,4 @@
-@MedunnaGiris,@Room
+@MedunnaGiris@Room
 Feature: Medunna room olusturma
 
   Scenario:Kullanici olusturma
