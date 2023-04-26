@@ -1,4 +1,4 @@
-@TCRoom,@Room
+@TCRoom@Room
 Feature: Room Getirme
 
   Scenario: Get Room

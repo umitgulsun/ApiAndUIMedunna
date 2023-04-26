@@ -1,4 +1,4 @@
-@RoomMedunna,@Room
+@RoomMedunna@Room
 Feature: Medunna room olusturma
 
   Scenario:room sayfasina gitme
